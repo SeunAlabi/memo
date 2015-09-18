@@ -1,0 +1,36 @@
+.alert {
+	padding-top:5px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+nav{
+	margin-top:10px;
+	background-color:blue;
+	
+}
+
+nav a{
+	font-weight:700;
+}
+
+.profile{
+	padding:70px;
+	border-radius:100%;
+	background-color:lightgrey;
+	width:200px;
+	margin:20px 80px;
+	color:fff;
+	font-weight:700;
+	
+}
+
+.full-profile{
+	width:400px;
+	height:500px;
+	margin:100px 500px;
+	border:1px solid blue;
+	border-radius:8px;
+	padding:10px 20px;
+}
+
